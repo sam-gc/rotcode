@@ -71,6 +71,6 @@ int main(int argc, char *argv[])
     [output release];
 
     [pool drain];
-    [pool release];
+   
     return 0;
 }
